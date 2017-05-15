@@ -13,20 +13,20 @@ license: CC BY ND SA
 
 ### Monday
 
-[Thinking about Thinking](Thinking about thinking.md)
+[Thinking about Thinking](/Thinking about thinking.md)
 
   - Registration
   - What is critical thinking?
   - What this course is about?
   - Thinking fast & slow.
 
-[Arguments](arguments.md)
+[Arguments](/arguments.md)
 
   - What are arguments?
   - What makes for a good argument? 
   - Argument structure
 
-[Deductive Reasoning](deductive reasoning.md)
+[Deductive Reasoning](/deductive reasoning.md)
 
   - Truth preservation
   - Validity
@@ -41,7 +41,6 @@ Deductive Reasoning
   - Disjunction
   - Conditionals
 
-
 Reflective Writing Workshop
 
 Assessment: Reflective Journal
@@ -49,28 +48,24 @@ Assessment: Reflective Journal
 
 ### Tuesday
 
-[Categorical Reasoning](categorical.md)
+[Categorical Reasoning](/categorical.md)
 
   - Review Propositional
   - Universals
   - Particulars
 
-
-[Deductive Writing Workshop](deductive writing.md)
+[Deductive Writing Workshop](/deductive writing.md)
 
   - choose a topic
   - create a valid argument
   - x 2
 
-
-[Making Arguments](arguments 2.md)
+[Making Arguments](/arguments 2.md)
 
   - point at issue
   - clarifying terms
 
-
 Research Methods Workshop
-
 
 Quesition Development
 
